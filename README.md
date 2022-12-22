@@ -291,7 +291,7 @@ ii. Configure yabridge according to https://github.com/robbert-vdh/yabridge#read
 
 iii. Install Windows VST2, VST3 and CLAP plugins  
     
-### 13. Check volume levels!
+### 14. Check volume levels!
 
 Once everything is set up, don't forget to check that volume levels are set correctly in Pipewire or ALSA. If using a flavour of ALSA be it pure ALSA or pipewire-alsa, run
 ```

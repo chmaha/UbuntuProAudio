@@ -303,7 +303,7 @@ to check that output is set to 100 (vertical bars) or gain of 0dB (top left of a
 
 ### 15. Other useful tools (all available via the package manager)
 
-**Music Player**: strawberry (can product bit-perfect playback) <br>
+**Music Player**: strawberry (can produce bit-perfect playback) <br>
 **Tagger**: kid3, picard <br>
 **DDP creation/verification/etc**: ddptools <br>
 **Audio Converter**: fre:ac or soundconverter <br>

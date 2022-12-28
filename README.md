@@ -301,5 +301,12 @@ to check that output is set to 100 (vertical bars) or gain of 0dB (top left of a
 
 ![alsamixer](https://user-images.githubusercontent.com/120390802/209148828-f5654838-eb25-4dd2-9955-4e0e8db99be2.png)
 
+### 15. Other useful tools (all available via the package manager)
 
+**Music Player**: strawberry (can product bit-perfect playback) <br>
+**Tagger**: kid3, picard <br>
+**DDP creation/verification/etc**: ddptools <br>
+**Audio Converter**: fre:ac or soundconverter <br>
+**CD Ripper**: asunder or cdrdao <br>
+**CD Burner**: cdrdao, k3b or nerolinux4
 
